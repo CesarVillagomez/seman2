@@ -10,6 +10,9 @@ h1{
     text-transform: uppercase;
 
 }
+.titulo span{
+    font-size:10px;
+  }
 nav{
     height: 50px;
     background-color: aqua;
